@@ -2,7 +2,7 @@
 	<FaultResponse>
 		<Set>
 			<StatusCode>405</StatusCode>
-			<ReasonPhrase>Method Not Allowed</ReasonPhrase>
+			<ReasonPhrase>Method Not Allowed: please use a different methodgit </ReasonPhrase>
 		</Set>
 	</FaultResponse>
 	<IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
